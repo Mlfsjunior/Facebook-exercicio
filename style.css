@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+     
+}
+
+
+
+body{
+    
+    margin:0;
+    padding:0;
+    background-color: rgb(240, 242, 245) ;
+    font-family:SFProDisplay-Regular, Helvetica, Arial, sans-serif
+    
+    
+}
+
+.container{
+    
+    
+    padding-top:0px;
+    padding-bottom: 30px;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+}
+
+a{
+    color:rgb(151, 151, 151);
+    text-decoration: none;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.contain{
+    width: 800px;
+    
+    margin-left: 20px;
+    position: relative;
+    top: 30%;
+}
+
+img{
+    position: relative;
+    right: 30px;
+    top: 20px;
+}
+
+
+h3{
+    font-weight: 400; 
+    font-size: 28px;
+    line-height: 30px;
+    
+}
+
+.formC{
+    background-color: white; 
+    border-radius: 5px;
+    border: 1px solid;
+    max-width: 400px;
+    height: 350px;
+    margin: 5px;
+    border-color: antiquewhite;
+    position: relative;
+    box-shadow: 0px 1px 7px 1px  rgb(197, 190, 182) ;
+    left: 55%;
+    bottom: 15%;
+}
+
+form{
+    margin-top: 9px;
+}
+
+ 
+input{
+  width: 90%;
+  box-sizing: border-box;
+  padding: 14px;
+  margin-top: 5px;
+  margin-left: 20px;
+  color: rgba(155, 155, 155, 0.388);
+  border-radius: 5px;
+  border: 1px solid;
+  margin-bottom: 10px;
+  outline-color: rgba(24, 118, 242, 0.636);
+  font-size: 17px;
+  
+}
+
+
+
+input[type="submit"]{
+    background-color: rgb(24, 119, 242);
+    color: white;
+    font-size: large;
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+.esqueceu-senha{
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+     
+}
+
+.esqueceu-senha{
+    text-decoration: none;
+    color: rgb(24, 119, 242);
+}
+
+.lin{
+    
+    width: 360px;
+    margin: auto;
+    margin-top: 20px;
+     
+}
+
+
+.criarconta{
+    width: 165px;
+    border-radius: 5px;
+    height: 48px;
+    margin: auto;
+    margin-top: 25px;
+    background-color:#42b72a;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    
+    
+}
+
+.criarconta:hover{
+    background-color: #49a422;
+     
+}
+
+.texto2{ 
+    margin-top: 14%;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+.linkcriarconta{
+    color: white;
+    position: relative;
+    top: 15px;
+
+}
+
+.contentfoot{
+   max-width: 100%;
+   margin: auto;
+   display: flex;
+   margin-top: 1px;
+   height: 205px;
+   background-color: #ffffff;
+   
+}
+
+footer{
+
+    height: 205px;
+    margin-top: 200px;
+    max-width: 100%;
+}
+
+li{ 
+    max-width: 100%;
+    margin-left: 10px;
+    float: left;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.lista1{
+    height: 140px;
+    margin: auto;
+    position: relative;
+    bottom: 5px;
+    
+}
+
+.linha{
+    margin: auto;
+    position: relative;
+    margin-top: 22%;
+    max-width: 95%;
+    
+}
+
+
+ 
+
+.lista2{
+    
+    display: inline-block;
+    max-width: 100%;
+    line-height: 1px;
+    position: relative;
+    bottom: 20px;
+
+}
+
+.lista3{
+
+    
+    max-width: 100%;
+    line-height: 1px;
+    position: relative;
+    bottom: 55px;
+
+}
+
+.lista4{
+    
+    max-width: 100%;
+    line-height: 1px;
+    position: relative;
+    bottom: 85px;
+
+}
+
+
+
+    
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+    
+    
+    
+    
+
+
+    
+   
+
+
+
+
+
+
+
+
+
+
